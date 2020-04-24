@@ -1,0 +1,148 @@
+@media only screen and (max-width: 575px) {
+  .mnavlis {
+    border: 1px solid black;
+  }
+}
+
+.mnavbcolor {
+	background-color: grey;
+}
+.mnavfsize {
+	font-size: 25px;
+}
+
+.signupnav {
+	background-color: blue;
+}
+
+.lnavheight {
+	height: 80px;
+	background-color: black;
+	color: white;
+	border-top: 1px solid white;
+}
+.offbanheight {
+	height: 50px;
+	background-color: blue;
+}
+
+.sbutton {
+	border-radius: 60px;
+	width: 80px;
+	height: 45px;
+}
+
+li {
+	list-style-type: none;
+}
+
+.sasa {
+	margin-bottom: 0;
+	padding-left: 0px;
+}
+
+.lipad {
+	left: 0;
+}
+
+
+.square {
+	height: 350px;
+	width: 450px;
+	background-color: red;
+}
+
+.offerheight {
+	background-color: grey;
+}
+
+.maxwidth {
+	width: 100%;
+}
+
+.lnavwid {
+	width: 100%;
+}
+
+.nowrap {
+	white-space: nowrap;
+}
+
+.prel {
+	position: relative;
+}
+
+.sliderul {
+	margin: 0;
+	padding: 0;
+	width: 2400px;
+	height: 760px;
+	position: absolute;
+	left: -800px;
+}
+
+.sliderulli {
+	list-style-type: none;
+	float: left;
+	width: 800px;
+	height: 760px;
+}
+
+.window {
+	height: 760px;
+	width: 800px;
+	overflow: hidden;
+	position: relative;
+	margin: 0 auto;
+}
+
+.picons {
+	margin: 0 37%;
+}
+
+
+.sliderimg {
+	height: 740px;
+	width: 800px;
+}
+
+.npd {
+	background-color: black;
+}
+
+.signupinfo {
+/*	height: 700px;*/
+	width: 600px;
+	border: 1px solid white;
+	margin: 0 auto;
+	background-color: black;
+	color: white;
+}
+
+.personal {
+	width: 600px;
+	border-bottom: 1px solid white;
+}
+
+.ccard {
+	width: 600px;
+}
+
+.suiwidth {
+	width: 700px;
+}
+.inputd {
+	height: 25px;
+}
+.inputhd {
+	height: 20px;
+}
+
+.lowfoot {
+	padding-bottom: 192px;
+}
+
+input[type=submit] {
+  background-color: #4CAF50;
+  color: white;
+}
